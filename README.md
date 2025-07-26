@@ -1,4 +1,9 @@
-# 🇧🇩 Bangla Literature RAG Assistant (AI Engineer Level-1)
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-%E2%9A%A1-red)
+![FastAPI](https://img.shields.io/badge/API-FastAPI-green)
+
+
+# Bangla Literature RAG Assistant 
 
 A multilingual Retrieval-Augmented Generation (RAG) system that understands **Bangla and English** queries, retrieves relevant passages from a Bangla literature PDF (HSC 1st Paper), and generates precise answers using a local LLM. Built as part of the AI Engineer (Level-1) assessment.
 
@@ -20,9 +25,9 @@ A multilingual Retrieval-Augmented Generation (RAG) system that understands **Ba
 
 | Question (Bangla)                                        | Answer         |
 |----------------------------------------------------------|----------------|
-| অনুপমের ভাষায় সুপুরুষ কাকে বলা হয়েছে?                   শম্ভুনাথ       
-| কাকে অনুপমের ভাগ্যদেবতা বলে উল্লেখ করা হয়েছে?            মামা          
-| বিয়ের সময় কল্যাণীর প্রকৃত বয়স কত ছিল?                   ১৫ বছর        
+| অনুপমের ভাষায় সুপুরুষ কাকে বলা হয়েছে?                   | শম্ভুনাথ       
+| কাকে অনুপমের ভাগ্যদেবতা বলে উল্লেখ করা হয়েছে?            | মামা          
+| বিয়ের সময় কল্যাণীর প্রকৃত বয়স কত ছিল?                   | ১৫ বছর        
 
 ---
 
