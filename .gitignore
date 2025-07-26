@@ -1,0 +1,10 @@
+# Ignore Python virtual environment
+.venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Output graphs and temp files
+retrieval_scores.png
+data/ocr_chunks.json

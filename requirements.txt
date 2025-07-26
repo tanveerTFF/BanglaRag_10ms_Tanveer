@@ -1,0 +1,24 @@
+# Core Backend
+fastapi
+uvicorn
+pydantic
+requests
+
+# UI
+streamlit
+
+# OCR
+pytesseract
+pdf2image
+tqdm
+Pillow
+
+# Vector DB + RAG
+chromadb
+sentence-transformers
+transformers
+safetensors
+torch
+
+# Evaluation
+matplotlib
