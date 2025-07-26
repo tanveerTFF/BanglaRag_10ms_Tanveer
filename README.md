@@ -39,6 +39,7 @@ A multilingual Retrieval-Augmented Generation (RAG) system that understands **Ba
 git clone https://github.com/your-username/rag-10ms.git
 cd rag-10ms
 python -m venv .venv
+Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope Process
 .venv\Scripts\activate  # (Windows)
 
 2. Install Requirements
