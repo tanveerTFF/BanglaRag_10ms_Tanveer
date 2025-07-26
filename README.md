@@ -47,6 +47,19 @@ Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope Process
 pip install --upgrade pip
 pip install -r requirements.txt
 
+3. Run the program
+
+go to your rag-10ms directory
+run in terminal uvicorn api:app --reload
+you should see 👋 generator.py has started
+now open another terminal
+run streamlit run chat_app.py
+
+streamlit will open and you can ask questions!
+
+
+
+
 🛠️ Tools & Libraries Used
 
 🔤 pytesseract + pdf2image — OCR on scanned Bangla PDF
