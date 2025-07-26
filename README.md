@@ -32,6 +32,7 @@ Each chunk is approximately 300–500 characters, ensuring sufficient context wi
 This approach works well for OCR content where punctuation-based splitting may be unreliable or inconsistent in Bangla.
 
 3. What embedding model did you use? Why did you choose it? How does it capture the meaning of the text?
+
 Model used: BAAI/bge-m3
 
 Why:
