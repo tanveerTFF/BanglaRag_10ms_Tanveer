@@ -108,7 +108,7 @@ Improve OCR accuracy using Bangla-specific language post-processing.
 ### 1. Clone & Setup Environment
 
 ```bash
-git clone https://github.com/tanveerTFF/rag-10ms.git
+git clone [https://github.com/tanveerTFF/rag-10ms.git](https://github.com/tanveerTFF/BanglaRag_10ms_Tanveer.git)
 cd rag-10ms
 python -m venv .venv
 Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope Process
