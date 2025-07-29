@@ -109,7 +109,7 @@ Improve OCR accuracy using Bangla-specific language post-processing.
 
 ```bash
 git clone https://github.com/tanveerTFF/BanglaRag_10ms_Tanveer.git
-cd rag-10ms
+cd BanglaRag_10ms_Tanveer
 python -m venv .venv
 Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope Process
 .venv\Scripts\activate  # (Windows)
